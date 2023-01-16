@@ -13,7 +13,7 @@ These instructions will get you a copy of the project as it has not been hosted.
 1. Clone the repository
 
 ```sh
-git clone https://github.com/Favour-Madubuko/Lens_Website
+git clone https://github.com/Favour-Madubuko/Lens_Website/
 ```
 
 2. Install dependencies
